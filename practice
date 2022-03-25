@@ -1,0 +1,9 @@
+only test 
+just for my pratice of Git Command Line
+the first : git add 文件名   追踪定位文件
+the second : git commit -m"注释" 文件名
+the third : git push "文件名" + 分支名
+
+and
+git config --global   user.name "用户名"
+git config --global   user.email "邮箱"
